@@ -4,4 +4,4 @@ This project was intended to improve the accessibility and to code refactor for 
 ![SocialMediaMarketingWebpageThumbnail](./assets/images/SocialMediaMarketingWebpageThumbnail.PNG)
 
 
-https://kayvonk.github.io/Code-Refactor/.
+Deployed application: https://kayvonk.github.io/Code-Refactor/.
